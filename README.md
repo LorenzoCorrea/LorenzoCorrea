@@ -22,10 +22,5 @@ Minha paixão é transformar dados brutos em informações valiosas e construir 
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LorenzoCorrea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Lorenzo" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoCorrea&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
-</p>
+![Estatísticas do Lorenzo](https://github-readme-stats.vercel.app/api?username=LorenzoCorrea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoCorrea&layout=compact&theme=dracula)
