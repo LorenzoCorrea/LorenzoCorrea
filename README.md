@@ -1,23 +1,31 @@
 ### Olá, eu sou o Lorenzo! 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na PUCRS** e estou em transição de carreira para a área de desenvolvimento de software. Meu foco atual é dominar o ecossistema JavaScript.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na PUCRS** e estou direcionando minha carreira para **Backend e Análise de Dados**.
+Minha paixão é transformar dados brutos em informações valiosas e construir sistemas robustos e escaláveis.
 
-- 🔭 Atualmente trabalhando no meu **Portfólio Profissional**
-- 🌱 Estudando **Node.js, TypeScript e React**
+- 🔭 Atualmente focado em **Python, SQL e Engenharia de Dados**
+- 📊 Estudando bibliotecas de análise (Pandas, NumPy) e Banco de Dados
 - 🎓 Formação em andamento na **PUCRS** (Previsão: 2027)
-- ⚡ Hobby: Games (LoL/Valorant) e Hardware
+- 💼 Experiência prévia em resolução de problemas complexos (Suporte/Infra)
 
 ---
 
-### 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 🛠️ Tech Stack & Ferramentas
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="NodeJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</div>
 
 ---
 
 ### 📊 GitHub Stats
-![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoCorrea&show_icons=true&theme=dracula)
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LorenzoCorrea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Lorenzo" />
+</p>
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoCorrea&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+</p>
