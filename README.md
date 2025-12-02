@@ -11,7 +11,7 @@ Minha paixão é transformar dados brutos em informações valiosas e construir 
 ---
 
 ### 🛠️ Tecnologias:
-
+<br>
 **🐍 Engenharia de Dados & Back-end**
 <br>
 <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@ Minha paixão é transformar dados brutos em informações valiosas e construir 
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
-
+<br>
 **🌐 Web & Sistemas**
 <br>
 <div style="display: inline_block"><br>
@@ -28,7 +28,7 @@ Minha paixão é transformar dados brutos em informações valiosas e construir 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
-
+<br>
 **⚙️ Ferramentas & DevOps**
 <br>
 <div style="display: inline_block"><br>
