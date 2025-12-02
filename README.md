@@ -20,12 +20,8 @@ Gosto de transformar dados brutos em informações valiosas e construir sistemas
 </div>
 
 ---
-### 🛠️ Tech Stack & Ferramentas
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="NodeJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</div>
+### 📊 GitHub Stats
+![Estatísticas do Lorenzo](https://github-readme-stats.vercel.app/api?username=LorenzoCorrea&show_icons=true&theme=dracula&include_all_commits=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoCorrea&layout=compact&theme=dracula)
 ---
