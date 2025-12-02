@@ -10,7 +10,7 @@ Minha paixão é transformar dados brutos em informações valiosas e construir 
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Tecnologias:
 
 **🐍 Engenharia de Dados & Back-end**
 <div style="display: inline_block"><br>
