@@ -1,3 +1,13 @@
+### Olá, eu sou o Lorenzo! 👋
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas na PUCRS** e estou direcionando minha carreira para **Backend e Análise de Dados**.
+Minha paixão é transformar dados brutos em informações valiosas e construir sistemas robustos e escaláveis.
+
+- 🔭 Atualmente focado em **Python, SQL e Engenharia de Dados**
+- 📊 Estudando bibliotecas de análise (Pandas, NumPy) e Banco de Dados
+- 🎓 Formação em andamento na **PUCRS** (Previsão: 2027)
+- 💼 Experiência prévia em resolução de problemas complexos (Suporte/Infra)
+
 ---
 
 ### 🛠️ Arsenal Tecnológico
@@ -26,7 +36,7 @@
 
 ---
 
-### 🔥 Minha Constância (Streak)
+### 🔥 Minha Constância
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LorenzoCorrea&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
