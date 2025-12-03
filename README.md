@@ -37,12 +37,6 @@ Minha paixão é transformar dados brutos em informações valiosas e construir 
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
----
-
-### 🔥 Minha Constância
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LorenzoCorrea&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
