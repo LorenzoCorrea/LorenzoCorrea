@@ -12,7 +12,7 @@ Gosto de entender o que acontece "por baixo do capô": como os dados são proces
 
 ---
 
-### 🛠️ Arsenal Tecnológico:
+### 🛠️ Tecnologias:
 
 **🚀 Back-end, Arquitetura & Dados (Meu Foco)**
 <div style="display: inline_block">
