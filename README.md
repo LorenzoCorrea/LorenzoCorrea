@@ -5,9 +5,9 @@ Embora minha formação seja **Full Stack**, meu foco principal é a construçã
 
 Gosto de entender o que acontece "por baixo do capô": como os dados são processados, armazenados e servidos com segurança e performance.
 
-- 🎯 **Foco Principal:** Construção de APIs robustas com **Node.js** e Automação/Dados com **Python**.
-- 🏗️ **Estudos Atuais:** Arquitetura de Software, Banco de Dados e Regras de Negócio.
-- 💻 **Full Stack:** Utilizo **React.js e TypeScript** para materializar minhas soluções de back-end em interfaces funcionais.
+- 🎯 **Foco Principal:** Construção de APIs com **Node.js** e Automação/Dados com **Python**.
+- 🏗️ **Estudos Atuais:** Arquitetura de Software e Banco de Dados
+- 💻 **Full Stack:** Utilizo **React.js e TypeScript** para consolidar minhas soluções de back-end em interfaces funcionais.
 - 🎓 **Formação:** Graduação na PUCRS (2027) + Formação Intensiva Full Stack.
 
 ---
