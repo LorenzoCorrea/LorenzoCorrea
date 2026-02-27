@@ -46,9 +46,7 @@ Gosto de entender o que acontece "por baixo do capô": como os dados são proces
   <a href="https://www.linkedin.com/in/lorenzo-correa-rs/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:lorenzocs02@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
+
   <a href="https://lorenzo.dev.br" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio_Online-%23100000?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
   </a>
