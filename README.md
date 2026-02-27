@@ -1,9 +1,9 @@
 ### Olá, eu sou o Lorenzo! 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na PUCRS** e um entusiasta do desenvolvimento **Back-end**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na PUCRS** e atualmente estou focado em **Back-end**.
 Embora minha formação seja **Full Stack**, meu foco principal é a construção de **Arquitetura de Software e Engenharia de Dados**.
 
-Gosto de entender o que acontece "por baixo do capô": como os dados são processados, armazenados e servidos com segurança e performance.
+Gosto de entender o que acontece "por baixo dos panos": Como os dados são processados, armazenados e servidos com segurança.
 
 - 🎯 **Foco Principal:** Construção de APIs com **Node.js** e Automação/Dados com **Python**.
 - 🏗️ **Estudos Atuais:** Arquitetura de Software e Banco de Dados
