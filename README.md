@@ -31,7 +31,7 @@ Gosto de entender o que acontece "por baixo dos panos": Como os dados são proce
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
-**⚙️ Ferramentas & DevOps**
+**⚙️ Ferramentas**
 <div style="display: inline_block">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
